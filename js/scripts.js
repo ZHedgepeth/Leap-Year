@@ -2,11 +2,11 @@ var leapYear = function(yearInput) {
   if (yearInput % 400 === 0) {
     return true;
   } else if (yearInput % 100 === 0) {
-    return false;
-} else if (yearInput % 4 === 0) {
-    return true;
+      return false;
+  } else if (yearInput % 4 === 0) {
+      return true;
   } else {
-  return false;
+      return false;
   }
 };
 
