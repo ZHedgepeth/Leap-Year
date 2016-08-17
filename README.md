@@ -28,18 +28,18 @@ _If you would like to reach us, contact us at Zhedgepeth1124@gmail.com_
 ## Technologies Used
 
 _Specs from our Leap Year Program_
-*_The program should return when a year is not a leap year._
-  *_Input Example: 1993_
-  *_Output Example: false_
-*_The program should return 'true' for years divisible by 4, since those are leap years._
-  *_Input Example: 2004_
-  *_Output Example: true_
-*_The program should return 'false' for years divisible by 100, since those are not leap years._
-  *_Input Example: 1900_
-  *_Output Example: false_
-*_The program should return 'true' for years divisible by 400, since those are leap years._
-  *_Input Example: 2000_
-  *_Output Example: true_
+* _The program should return when a year is not a leap year._
+  * _Input Example: 1993_
+  * _Output Example: false_
+* _The program should return 'true' for years divisible by 4, since those are leap years._
+  * _Input Example: 2004_
+  * _Output Example: true_
+* _The program should return 'false' for years divisible by 100, since those are not leap years._
+  * _Input Example: 1900_
+  * _Output Example: false_
+* _The program should return 'true' for years divisible by 400, since those are leap years._
+  * _Input Example: 2000_
+  * _Output Example: true_
 
 ### License
 
